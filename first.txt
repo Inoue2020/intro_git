@@ -1,4 +1,4 @@
 Gitの練習用です。
 がんばります。
-・Git add
-・Git commit
+・git add
+・git commit
